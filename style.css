@@ -1,0 +1,13 @@
+body{
+    background-color: #e8ead3;
+}
+
+nav{
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+/* https://www.barcoding.com/blog/barcode-prefixes-and-product-country-of-origin/ */
